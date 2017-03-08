@@ -1,0 +1,9 @@
+[submodule "java"]
+	path = java
+	url = git@github.com:ddrsmile/leetcodeJava.git
+[submodule "python"]
+	path = python
+	url = git@github.com:ddrsmile/leetcodePython.git
+[submodule "cpp"]
+	path = cpp
+	url = git@github.com:ddrsmile/leetcodeCpp.git
